@@ -1,3 +1,23 @@
 *{
     margin: 0%;
 }
+#rightSideCard{
+    background-color:white;
+    color: black;
+    width: 50%;
+}
+
+#leftSideCard{
+    color: white;
+    width: 50%;
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+}
+
+#rightImage{
+    width: 100%;
+    height: 100%;
+}
