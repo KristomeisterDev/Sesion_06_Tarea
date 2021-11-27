@@ -1,6 +1,13 @@
 *{
     margin: 0%;
 }
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 #rightSideCard{
     background-color:white;
     color: black;
@@ -8,7 +15,6 @@
 }
 
 #leftSideCard{
-    color: white;
     width: 50%;
 }
 
